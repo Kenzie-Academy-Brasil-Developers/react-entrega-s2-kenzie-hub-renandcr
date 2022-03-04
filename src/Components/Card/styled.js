@@ -12,6 +12,7 @@ const CardStyle = styled.div`
   background-color: var(--grey-4);
   margin-top: 15px;
   box-sizing: border-box;
+
   h3 {
     font-size: 14px;
     font-weight: 700;
